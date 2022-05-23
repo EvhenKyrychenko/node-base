@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://evhenkyrychenko.github.io/node-base/",
+  "homepage": "https://evhenkyrychenko.github.io/cooking-template/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /node-base/"
+    "build": "parcel build src/*.html --public-url /cooking-template/"
   },
   "repository": {
     "type": "git",
